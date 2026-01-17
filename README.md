@@ -2,6 +2,8 @@
 
 A simple bash script to analyze and report basic server performance statistics on Linux systems.
 
+**Project URL**: https://github.com/danielahmeed/devops-learn
+
 ## Features
 
 This script calculates and displays:
